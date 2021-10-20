@@ -1,0 +1,16 @@
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/lesson10
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/lesson10.deps.json
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/lesson10.runtimeconfig.json
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/lesson10.runtimeconfig.dev.json
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/lesson10.dll
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/ref/lesson10.dll
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/bin/Debug/net5.0/lesson10.pdb
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.csproj.AssemblyReference.cache
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.GeneratedMSBuildEditorConfig.editorconfig
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.AssemblyInfoInputs.cache
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.AssemblyInfo.cs
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.csproj.CoreCompileInputs.cache
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.dll
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/ref/lesson10.dll
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.pdb
+/home/alisher/cmpt130/yangi_bosqich/bootcamp-1/lesson10/obj/Debug/net5.0/lesson10.genruntimeconfig.cache
